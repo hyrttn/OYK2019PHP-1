@@ -1,10 +1,11 @@
-OYK2019PHP
 # Özgür Yazılım Yaz Kampı PHP Sınıfı Ders Notları
 ## 20.07.2019 Birinci Gün Notları
 
 ![Mustafa Akgül Özgür Yazılım Yaz Kampı](https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
 
 ### Ubuntu’da Bazı Apt Komutları
+
+![iBÜ](ibu.png)
 
 Komut | Açıklama
 ---|---
